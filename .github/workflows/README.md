@@ -45,4 +45,4 @@ If you're not using a GitOps approach with an operator, you can manually apply t
 kubectl apply -f kubernetes/deployment.yaml
 ```
 
-Or set up a webhook to trigger the deployment when the manifest is updated.
+Or set up a webhook to trigger the deployment when the manifest is updated. 12
